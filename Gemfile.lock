@@ -76,7 +76,7 @@ GEM
     base64 (0.3.0)
     benchmark (0.4.1)
     bigdecimal (3.2.3)
-    bootsnap (1.18.6)
+    bootsnap (1.20.1)
       msgpack (~> 1.2)
     brakeman (7.1.0)
       racc
@@ -223,6 +223,8 @@ GEM
       rubocop-rails (>= 2.30)
     ruby-progressbar (1.13.0)
     securerandom (0.4.1)
+    sqlite3 (1.7.3)
+      mini_portile2 (~> 2.8.0)
     sqlite3 (1.7.3-x86_64-linux)
     stringio (3.1.7)
     thor (1.4.0)
